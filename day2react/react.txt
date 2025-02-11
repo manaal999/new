@@ -5,3 +5,6 @@ then run
 npm create vite@latest . -- --template react
 run : npm install
 run : npm num dev
+
+Theory:
+REACT js based framework for making UI
